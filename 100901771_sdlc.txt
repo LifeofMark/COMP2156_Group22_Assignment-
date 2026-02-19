@@ -1,3 +1,4 @@
 The Software Development Life Cycle (SDLC) is a framework that outlines the steps for planning, creating, testing, and deploying software.
 A DevOps engineer plays a crucial role in the SDLC by bridging the gap between software development and IT operations.
 By automating testing and deployment pipelines, DevOps ensures faster, more reliable, and higher-quality software releases.
+--- End of Assignment ---
