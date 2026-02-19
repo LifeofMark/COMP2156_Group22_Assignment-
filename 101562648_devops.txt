@@ -1,3 +1,6 @@
 COMP 2156 - DevOps for System Administration
 
 This course covers the following topics:
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Version control with Git and GitHub
+- Configuration management tools like Ansible
