@@ -1,0 +1,4 @@
+The COMP2156 DevOps course helps students learn the tools and methods used to make software development smoother and more organized. In the course we practice using Git for version control, automation tools, and continuous integration, while also learning how developers and system administrators work together. These skills help teams avoid mistakes and release software more efficiently.
+The course also teaches practical tasks like managing repositories, creating branches, making commits, and working on group projects. Learning DevOps is important because it helps companies update their software faster while keeping systems stable and reliable.
+We also learn how CI helps catch issues before code gets merged.
+The course also helps us understand how working together as a team can make software development faster and more organized.
