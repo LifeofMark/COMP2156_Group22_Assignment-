@@ -12,4 +12,4 @@ DevOps helps improve the SDLC by connecting these stages more closely. With tool
 
 Because of this, DevOps makes the development process faster, improves communication between teams, and helps deliver more stable software with fewer delays.
 Following a structured SDLC makes it easier for teams to monitor their progress and handle changes along the way.
-
+In simple terms, DevOps helps teams move faster without sacrificing quality.
