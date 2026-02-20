@@ -1,0 +1,5 @@
+COMP2156 (DevOps) teaches how teams can build, test, and release software in a faster and more organized way. The goal is to help developers and operations work together instead of separately by using automation and shared processes.
+
+In the course, we learn how to use Git for version control and teamwork, including branches, commits, and pull requests. We also learn about continuous integration and continuous delivery (CI/CD), which means testing changes often and releasing updates more smoothly.
+
+Overall, DevOps focuses on automation, quick feedback, and reliable deployments so software can be updated with fewer problems and better teamwork.
