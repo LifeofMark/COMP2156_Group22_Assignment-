@@ -3,3 +3,4 @@ The Software Development Life Cycle (SDLC) is the process used to build software
 DevOps helps improve the SDLC by connecting these stages more closely. With tools like automated testing and CI pipelines, problems can be found earlier, and deployment tools help release updates in a more consistent way.
 
 Because of this, DevOps makes the development process faster, improves communication between teams, and helps deliver more stable software with fewer delays.
+Following a structured SDLC makes it easier for teams to monitor their progress and handle changes along the way.
