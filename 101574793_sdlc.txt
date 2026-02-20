@@ -1,0 +1,15 @@
+The Software Development Life Cycle (SDLC) is the process used to build software step by step. It usually includes planning, gathering requirements, designing the system, coding, testing, deploying, and maintaining the software after release. Following these steps helps teams stay organized and avoid major mistakes.
+Common SDLC steps:
+- Plan
+- Gather requirements
+- Design
+- Code
+- Test
+- Deploy
+- Maintain
+
+DevOps helps improve the SDLC by connecting these stages more closely. With tools like automated testing and CI pipelines, problems can be found earlier, and deployment tools help release updates in a more consistent way.
+
+Because of this, DevOps makes the development process faster, improves communication between teams, and helps deliver more stable software with fewer delays.
+Following a structured SDLC makes it easier for teams to monitor their progress and handle changes along the way.
+In simple terms, DevOps helps teams move faster without sacrificing quality.
